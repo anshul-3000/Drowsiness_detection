@@ -101,6 +101,9 @@ git push
 
 ---
 
-## Contact
+## 👥 Contributors
 
-If you want improvements (requirements.txt, GitHub Actions workflow, nicer README with badges and screenshots, or a cleaned code refactor), tell me and I will generate them for you.
+| Name | Responsibilities  | GitHub |
+|------|-------|--------|
+| *Anshul Chaudhary* | Model selection and training | [@Anshul Chaudhary](https://github.com/anshul-3000) |
+| *Devesh Anand Tripathi* | Model evaluation, prediction |[@Devesh Anand Tripathi]() |
