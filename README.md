@@ -101,12 +101,6 @@ git push
 
 ---
 
-## License
-
-This project is released under the MIT License. Add a `LICENSE` file if you want to make it explicit.
-
----
-
 ## Contact
 
 If you want improvements (requirements.txt, GitHub Actions workflow, nicer README with badges and screenshots, or a cleaned code refactor), tell me and I will generate them for you.
