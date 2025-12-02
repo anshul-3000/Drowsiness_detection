@@ -103,7 +103,7 @@ git push
 
 ## 👥 Contributors
 
-| Name | Responsibilities  | GitHub |
-|------|-------|--------|
-| *Anshul Chaudhary* | Model selection and training | [@Anshul Chaudhary](https://github.com/anshul-3000) |
-| *Devesh Anand Tripathi* | Model evaluation, prediction |[@Devesh Anand Tripathi]() |
+| Name | GitHub |
+|------|--------|
+| *Anshul Chaudhary* | [@Anshul Chaudhary](https://github.com/anshul-3000) |
+| *Devesh Anand Tripathi* | [@Devesh Anand Tripathi]() |
