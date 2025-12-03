@@ -106,4 +106,4 @@ git push
 | Name | GitHub |
 |------|--------|
 | *Anshul Chaudhary* | [@Anshul Chaudhary](https://github.com/anshul-3000) |
-| *Devesh Anand Tripathi* | [@Devesh Anand Tripathi]() |
+| *Devesh Anand Tripathi* | [@Devesh Anand Tripathi](https://github.com/TripathiDevesh) |
